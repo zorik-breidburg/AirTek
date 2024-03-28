@@ -1,0 +1,17 @@
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\obj\Debug\net8.0\SpeedyAir2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\obj\Debug\net8.0\SpeedyAir2.AssemblyInfoInputs.cache
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\obj\Debug\net8.0\SpeedyAir2.AssemblyInfo.cs
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\obj\Debug\net8.0\SpeedyAir2.csproj.CoreCompileInputs.cache
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\bin\Debug\net8.0\SpeedyAir2.exe
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\bin\Debug\net8.0\SpeedyAir2.deps.json
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\bin\Debug\net8.0\SpeedyAir2.runtimeconfig.json
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\bin\Debug\net8.0\SpeedyAir2.dll
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\bin\Debug\net8.0\SpeedyAir2.pdb
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\obj\Debug\net8.0\SpeedyAir2.csproj.AssemblyReference.cache
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\obj\Debug\net8.0\SpeedyAir2.csproj.Up2Date
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\obj\Debug\net8.0\SpeedyAir2.dll
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\obj\Debug\net8.0\refint\SpeedyAir2.dll
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\obj\Debug\net8.0\SpeedyAir2.pdb
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\obj\Debug\net8.0\SpeedyAir2.genruntimeconfig.cache
+C:\Users\zorik\source\repos\SpeedyAir2\SpeedyAir2\obj\Debug\net8.0\ref\SpeedyAir2.dll

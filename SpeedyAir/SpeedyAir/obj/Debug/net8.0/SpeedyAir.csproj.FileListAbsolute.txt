@@ -1,0 +1,14 @@
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\bin\Debug\net8.0\SpeedyAir.exe
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\bin\Debug\net8.0\SpeedyAir.deps.json
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\bin\Debug\net8.0\SpeedyAir.runtimeconfig.json
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\bin\Debug\net8.0\SpeedyAir.dll
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\bin\Debug\net8.0\SpeedyAir.pdb
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net8.0\SpeedyAir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net8.0\SpeedyAir.AssemblyInfoInputs.cache
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net8.0\SpeedyAir.AssemblyInfo.cs
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net8.0\SpeedyAir.csproj.CoreCompileInputs.cache
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net8.0\SpeedyAir.dll
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net8.0\refint\SpeedyAir.dll
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net8.0\SpeedyAir.pdb
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net8.0\SpeedyAir.genruntimeconfig.cache
+C:\Users\zorik\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net8.0\ref\SpeedyAir.dll
